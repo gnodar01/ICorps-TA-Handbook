@@ -1,4 +1,5 @@
-My Awesome Book
-=======
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+# TA Handbook
+### The Role of a TA
+
+As a TA, you are the backbone of the class. Your role is to ensure that the course runs smoothly for the teaching team, students, mentors, and advisors.
