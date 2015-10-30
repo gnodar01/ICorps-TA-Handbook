@@ -1,6 +1,6 @@
 ### Schedule and Set Up Classes
 
-The number of classes has varied from 4 weeks to 10 weeks, so you will want to check with the teaching team to see what the current format is. There will be one class every week, typically on Friday mornings. The class should be approximately 4 hours in length. The class starts with a 30 minute Q&A on the previous week’s material, followed by 3 hours of presentations by teams on lessons learned from previous week of customer interviews, followed by a 30 minute lecture on the upcoming week’s materials.
+The number of classes has varied from 4 weeks to 10 weeks, so you will want to check with the teaching team to see what the current format is. There will be one class every week, typically on Friday mornings. The class should be approximately 4 hours in length. The class starts with a 30 minute Q&A on the previous week’s material. The next 3 hours will be presentations by teams on their lessons learned from the week of customer interviews leading up to that class. Classes end with a 30 minute lecture on the upcoming week’s materials. The last class will be final presentation, so it will not have the typical Q&A and Lecture format.
 
 * Identify the number of weeks for this cohort
 
@@ -22,6 +22,6 @@ The number of classes has varied from 4 weeks to 10 weeks, so you will want to c
 
     * To assign Teaching Team members as lecturers, check their schedules for all weeks, as well as what topic they covered last time, if any.
 
-        * If schedule permits, assign the lecturer to the same topic they led in a previous cohorts
+        * If schedule permits, assign the lecturer to the same topic they led in a previous cohort
 
         * Make sure each Teaching Team member has approved their days to Instruct, and that they have it reserved on their calendar
