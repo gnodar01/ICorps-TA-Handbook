@@ -33,7 +33,7 @@
         * [Start of the week e-mail](chapter2/emails/weekStartEmail.md)
         * [Pre-class e-mail](chapter2/emails/preclassEmail.md)
         * [Weekly Mentor e-mail](chapter2/emails/mentorEmail.md)
-        * [Teaching Team e-mail](chapter1/step3/teachingTeamEmail.md)
+        * [Teaching Team e-mail](chapter1/emails/teachingTeamEmail.md)
     * [Pre and Post Class Logistics](chapter2/logistics/readme.md)
         * [LPC Setup](chapter2/logistics/lpcSetup.md)
         * [Collect Team Presentations](chapter2/logistics/collectPresentations.md)
