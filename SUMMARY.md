@@ -1,4 +1,19 @@
 # Summary
 
 * [Role of a TA](README.md)
-
+* [Pre-Class Stage](chapter1/readme.md)
+    * [Step 1](chapter1/step1.md)
+    * [Step 2](chapter1/step2.md)
+    * [Step 3](chapter1/step3.md)
+    * [Step 4](chapter1/step4.md)
+    * [Step 5](chapter1/step5.md)
+    * [Step 6](chapter1/step6.md)
+    * [Step 7](chapter1/step7.md)
+    * [Step 8](chapter1/step8.md)
+    * [Step 9](chapter1/step9.md)
+* [During the Quarter](chapter2/readme.md)
+    * [E-mails](chapter1/step1.md)
+    * [Pre and Post Class Logistics](chapter2/pre-post-logistics.md)
+    * [Office Hours](chapter2/officeHours.md)
+    * [In Class](chapter2/in-class.md)
+    * [Cohort Management](chapter2/cohortMgmt.md)
