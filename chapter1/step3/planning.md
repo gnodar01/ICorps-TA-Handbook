@@ -2,7 +2,7 @@
 
 * Scan the UCF calendar and set up dates for the following deadlines:
 
-    * 2 [Information Session](chapter1/step3/infoSessions.md) dates
+    * 2 [Information Session](/infoSessions.md) dates
 
     * Team applications submission date
 
