@@ -1,5 +1,3 @@
-## Step 2: Finalize Schedule and Curriculum
-
 ### Schedule and Set Up Pre-Class Workshop
 
 The Pre-Class workshop serves as an introduction to I-Corps. This workshop typically will take place one or two weeks before class 1 Depending on the length of the workshop, and lessons learned from previous cohorts, elements may include:
