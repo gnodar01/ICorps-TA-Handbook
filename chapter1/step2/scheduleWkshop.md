@@ -1,6 +1,6 @@
 ### Schedule and Set Up Pre-Class Workshop
 
-The Pre-Class workshop serves as an introduction to I-Corps. This workshop typically will take place one or two weeks before class 1 Depending on the length of the workshop, and lessons learned from previous cohorts, elements may include:
+The Pre-Class workshop serves as an introduction to I-Corps. This workshop will typically take place one or two weeks before class 1 (depending on the length of the workshop, and lessons learned from previous cohorts). Modules *may* include:
 
 * Overview of Business Model Canvas
 
@@ -12,7 +12,7 @@ The Pre-Class workshop serves as an introduction to I-Corps. This workshop typic
 
     * How to conduct interviews
 
-    * Creating scripts
+    * Creating scripts for interviews
 
     * Holding a mock interview, and/or bringing in a real customer for a team, and having the team interview the customer live
 
@@ -36,4 +36,4 @@ The Pre-Class workshop serves as an introduction to I-Corps. This workshop typic
 
 * Norms, expectations, and requirements for this class
 
-You will want to make sure that a room is booked for the length of the workshop, well in advance. Also plan to serve snacks, water, coffee, food, etc. depending on the length of the workshop.
+**You will want to make sure that a room is booked for the length of the workshop, well in advance**. Also, plan to serve snacks, water, coffee, food, etc. depending on the length of the workshop.
