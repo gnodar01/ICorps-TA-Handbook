@@ -1,4 +1,4 @@
-## Step 1: Reflect, Gather Feedback, and Strategize.
+## Step 1: Reflect, Gather Feedback, and Strategize
 
 * Talk to previous TA (if different from this time), and identify their process.
 
