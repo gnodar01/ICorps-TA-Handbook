@@ -8,7 +8,7 @@ The syllabus should detail all material teams will need for the classes. It shou
 
     * The topic of the class (i.e. Business Model Canvas segment)
 
-    * The lecturer for the beginning of class Q&A for each class
+    * The lecturer for the beginning of class Q&A
 
     * The lecturer for the end of class lecture
 
@@ -20,7 +20,7 @@ The syllabus should detail all material teams will need for the classes. It shou
 
             * Business Model Generation: pages for each class
 
-            * Supplementary readings (e.g. blog posts)
+            * Supplementary readings (e.g. blog posts, slide decks, etc.)
 
         * Viewings
 
@@ -30,11 +30,11 @@ The syllabus should detail all material teams will need for the classes. It shou
 
         * Number of interviews for the week leading up to class
 
-            * Typically 10-15 per week
+            * Typically 10-15 per week, minimum
 
         * Presentation format
 
-            * The topic and format of the presentation should reflect the topic (BMC segment) of the homework in the week leading up to that class, and the topic of the lecture from the previous week’s end of class lecture (should be same as homework topic)
+            * The topic and format of the presentation should reflect the topic (BMC segment) of the homework in the week leading up to that class, which should be the same as the topic of the lecture from the previous week’s end of class lecture
 
 * Agenda for the pre-class workshop
 
