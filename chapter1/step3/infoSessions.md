@@ -18,7 +18,7 @@
 
 * Organize food & drinks for all attendees of information session.
 
-* Book room(s) well in advance.
+* *Book room(s) well in advance*
 
 * On the day of & night before information sessions, send the schedule to the teaching team with details on location and time of office hours as a reminder.
 
