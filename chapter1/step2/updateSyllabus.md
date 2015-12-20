@@ -34,7 +34,7 @@ The syllabus should detail all curriculum material that teams will need for the 
 
         * Presentation format
 
-            * The topic and format of the presentation should reflect the topic (BMC segment) of the homework in the week leading up to that class, which should be the same as the topic of the lecture from the previous week’s end of class lecture
+          * The topic and format of the presentation should reflect the topic (BMC segment) of the homework in the week leading up to that class, which should be the same as the topic of the lecture from the previous week’s end of class lecture
 
 * Agenda for the pre-class workshop
 
