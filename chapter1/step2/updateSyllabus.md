@@ -1,6 +1,6 @@
 ### Update Syllabus
 
-The syllabus should detail all material teams will need for the classes. It should contain:
+The syllabus should detail all curriculum material that teams will need for the classes. It should contain:
 
 * Contact information for the TA and Teaching Team members
 
