@@ -16,7 +16,7 @@ The number of classes has varied from 4 weeks to 10 weeks, so you will want to c
 
 * Identify instructors for each week
 
-    * The lecture at the beginning of the class will be a Q&A on the previous weeks material, so you will want to assign the beginning of class lecturer who taught that material the previous week
+    * The lecture at the beginning of the class will be a Q&A on the previous week's material, so you will want to assign the beginning of class lecturer who taught that material the previous week
 
     * The end of the class lecture is on a new topic, so you will want to assign a new Teaching Team member (not the one who led the Q&A in the beginning of class).
 
